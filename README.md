@@ -33,6 +33,6 @@ Gdze $N_{wszystkich\_badanych\_kategorii} = 4$ (Sklep spożywczy, Apteka, Szkoł
 ---
 
 ## 👨‍💻 Autor
-* **Imię i Nazwisko:** [Twoje Imię i Nazwisko]
+* **Imię i Nazwisko:** Daniel Zaszewski
 * **Kierunek:** Geoinformatyka, Semestr [X]
 * **Prowadzący:** [Imię i Nazwisko Prowadzącego]

@@ -34,5 +34,5 @@ Gdze $N_{wszystkich\_badanych\_kategorii} = 4$ (Sklep spożywczy, Apteka, Szkoł
 
 ## 👨‍💻 Autor
 * **Imię i Nazwisko:** Daniel Zaszewski
-* **Kierunek:** Geoinformatyka, Semestr [X]
-* **Prowadzący:** [Imię i Nazwisko Prowadzącego]
+* **Kierunek:** GGG, GIS 5
+* **Prowadzący:** Daniel Zaszewski i Marcin Stępień

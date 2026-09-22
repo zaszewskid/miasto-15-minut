@@ -145,14 +145,6 @@ Treść zapytania SQL:
 
 ---
 
-## 8. Deklaracja samodzielności
-
-Oświadczam, że powyższe sprawozdanie zostało wykonane samodzielnie w ramach indywidualnego studium przypadku.
-
-Podpis (imię i nazwisko): _____________________________
-
----
-
 ## Ocena prowadzącego
 
 ### Zadania podstawowe
